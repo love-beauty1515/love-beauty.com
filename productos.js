@@ -49,7 +49,7 @@ const productos = [
         nombre: "Crema hidratante",
         precio: 12000,
         categoria: "Cuidado facial",
-        imagen: "imagenes/crema-hidratante.jpeg",
+        imagen: "imagenes/crema-hidratante.jpg",
         descripcion: "Crema hidratante para un acabado natural."
     },
 
