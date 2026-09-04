@@ -19,7 +19,7 @@ const productos = [
         nombre: "Base Líquida",
         precio: 44000,
         categoria: "Bases",
-        imagen: "imagenes/base liquida.jpg",
+        imagen: "imagenes/Base liquida.jpg",
         descripcion: "Base para un acabado natural."
     },
 
