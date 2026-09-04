@@ -7,7 +7,7 @@ const productos = [
     {
         id: 1,
         nombre: "Labial Rosa",
-        precio: 25000,
+        precio: 23000,
         categoria: "Labiales",
         imagen: "imagenes/labial.jpg",
         descripcion: "Labial de larga duración."
