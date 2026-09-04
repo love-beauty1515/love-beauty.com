@@ -17,9 +17,9 @@ const productos = [
     {
         id: 2,
         nombre: "Base Líquida",
-        precio: 45000,
+        precio: 44000,
         categoria: "Bases",
-        imagen: "imagenes/base.jpg",
+        imagen: "imagenes/base liquida.jpg",
         descripcion: "Base para un acabado natural."
     },
 
