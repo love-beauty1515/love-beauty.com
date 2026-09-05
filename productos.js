@@ -71,7 +71,16 @@ const productos = [
         categoria: "Esplas",
         imagen: "imagenes/Esplas.jpeg",
         descripcion: "Larga duración."
-    }
+    },
+
+    {
+        id: 8,
+        nombre: "Moto",
+        precio: 44000,
+        categoria: "Moto",
+        imagen: "imagenes/Base liquida.jpg",
+        descripcion: "Moto para un natural."
+    },
 
 ];
 
