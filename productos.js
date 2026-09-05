@@ -73,6 +73,8 @@ const productos = [
         descripcion: "Larga duración."
     },
 
+
+    
     {
         id: 8,
         nombre: "Moto",
