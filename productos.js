@@ -68,7 +68,7 @@ const productos = [
         id: 7,
         nombre: "Esplas",
         precio: 25000,
-        categoria: "labios",
+        categoria: "Esplas",
         imagen: "imagenes/Esplas.jpeg",
         descripcion: "Larga duración."
     }
