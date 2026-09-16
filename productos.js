@@ -6,31 +6,31 @@ const productos = [
 
     {
         id: 1,
-        nombre: "Labial Rosa",
-        precio: 23000,
-        categoria: "Labiales",
-        imagen: "imagenes/labial.jpg",
-        descripcion: "Labial de larga duración."
+        nombre: "Corrector de Bloomshell",
+        precio: 20000,
+        categoria: "Correctores",
+        imagen: "imagenes/Correctores de Bloomshell.jpeg",
+        descripcion: "Acabado natural y de larga duración."
     },
 
 
     {
         id: 2,
-        nombre: "Base Líquida",
-        precio: 44000,
-        categoria: "Bases",
-        imagen: "imagenes/Base liquida.jpg",
-        descripcion: "Base para un acabado natural."
+        nombre: "Corrector de Elaya",
+        precio: 16000,
+        categoria: "Correctores",
+        imagen: "imagenes/Corrector de Elaya.jpeg",
+        descripcion: "Textura ligera que no marca líneas de expresión."
     },
 
 
     {
         id: 3,
-        nombre: "Rubor",
-        precio: 30000,
-        categoria: "Rubores",
-        imagen: "imagenes/rubor.jpg",
-        descripcion: "Rubor de acabado natural."
+        nombre: "Corrector Superstay",
+        precio: 7400,
+        categoria: "Correctores",
+        imagen: "imagenes/Corrector Superstay.jpeg",
+        descripcion: "Alta cobertura para ojeras e imperfecciones."
     },
 
 
