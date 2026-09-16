@@ -83,6 +83,14 @@ const productos = [
         imagen: "imagenes/Base liquida.jpg",
         descripcion: "Moto para un natural."
     },
+    {
+        id: 9,
+        nombre: "Moto",
+        precio: 44000,
+        categoria: "Moto",
+        imagen: "imagenes/Base liquida.jpg",
+        descripcion: "Moto para un natural."
+    },
 
 ];
 
@@ -520,7 +528,7 @@ function actualizarCarrito() {
         }
     );
 
-
+                
     cantidad.textContent =
         carrito.length;
 
