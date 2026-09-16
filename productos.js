@@ -36,9 +36,9 @@ const productos = [
 
     {
         id: 4,
-        nombre: "Labial Rosa",
+        nombre: " ",
         precio: 25000,
-        categoria: "Labiales",
+        categoria: "i",
         imagen: "imagenes/labial.jpg",
         descripcion: "Labial de larga duración."
     },
@@ -46,9 +46,9 @@ const productos = [
 
     {
         id: 5,
-        nombre: "Crema hidratante",
+        nombre: "y ",
         precio: 12000,
-        categoria: "Cuidado facial",
+        categoria: "i",
         imagen: "imagenes/crema hidratante.jpg",
         descripcion: "Crema hidratante para un acabado natural."
     },
@@ -56,9 +56,9 @@ const productos = [
 
     {
         id: 6,
-        nombre: "Labial de hombre",
+        nombre: "e",
         precio: 3000,
-        categoria: "Labiales",
+        categoria: "i",
         imagen: "imagenes/labial-hombre.jpg",
         descripcion: "Labial de acabado natural."
     },
@@ -68,7 +68,7 @@ const productos = [
         id: 7,
         nombre: "Esplas",
         precio: 25000,
-        categoria: "Esplas",
+        categoria: "o",
         imagen: "imagenes/Esplas.jpeg",
         descripcion: "Larga duración."
     },
@@ -77,9 +77,9 @@ const productos = [
     
     {
         id: 8,
-        nombre: "Moto",
+        nombre: "7",
         precio: 44000,
-        categoria: "Moto",
+        categoria: "i",
         imagen: "imagenes/Base liquida.jpg",
         descripcion: "Moto para un natural."
     },
@@ -87,9 +87,9 @@ const productos = [
     
     {
         id: 9,
-        nombre: "Carro",
+        nombre: "u",
         precio: 44000,
-        categoria: "Moto",
+        categoria: "i",
         imagen: "imagenes/Base liquida.jpg",
         descripcion: "Moto para un natural."
     },
