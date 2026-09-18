@@ -9,7 +9,7 @@ const productos = [
         nombre: "Corrector de Bloomshell",
         precio: 20000,
         categoria: "Correctores",
-        imagen: "imagenes/Correctores de Bloomshell.jpeg",
+        imagen: "imagenes/Corrector de Bloomshell.jpeg",
         descripcion: "Acabado natural y de larga duración."
     },
 
@@ -29,47 +29,47 @@ const productos = [
         nombre: "Corrector Superstay",
         precio: 7400,
         categoria: "Correctores",
-        imagen: "imagenes/Corrector Superstay.jpeg",
+        imagen: "imagenes/Corrector Super stay.jpeg",
         descripcion: "Alta cobertura para ojeras e imperfecciones."
     },
 
 
     {
         id: 4,
-        nombre: " ",
-        precio: 25000,
-        categoria: "i",
-        imagen: "imagenes/labial.jpg",
+        nombre: "Balsamo de Guzel ",
+        precio: 7500,
+        categoria: "Labios",
+        imagen: "imagenes/Balsamo de Guzel.jpeg",
         descripcion: "Labial de larga duración."
     },
 
 
     {
         id: 5,
-        nombre: "y ",
-        precio: 12000,
-        categoria: "i",
-        imagen: "imagenes/crema hidratante.jpg",
+        nombre: "Fijador de Vitamina C ",
+        precio: 7400,
+        categoria: "Fijador",
+        imagen: "imagenes/Fijador de Vitamina C.jpeg",
         descripcion: "Crema hidratante para un acabado natural."
     },
 
 
     {
         id: 6,
-        nombre: "e",
-        precio: 3000,
-        categoria: "i",
-        imagen: "imagenes/labial-hombre.jpg",
+        nombre: "Fijador de Fresa",
+        precio: 7400,
+        categoria: "Fijador",
+        imagen: "imagenes/Fijador de fresa.jpeg",
         descripcion: "Labial de acabado natural."
     },
 
 
     {
         id: 7,
-        nombre: "Esplas",
-        precio: 25000,
-        categoria: "o",
-        imagen: "imagenes/Esplas.jpeg",
+        nombre: "Tinta de Bloomshell",
+        precio: 16700,
+        categoria: "Tintas",
+        imagen: "imagenes/Tinta de Bloomshell.jpeg",
         descripcion: "Larga duración."
     },
 
@@ -77,28 +77,60 @@ const productos = [
     
     {
         id: 8,
-        nombre: "7",
-        precio: 44000,
-        categoria: "i",
-        imagen: "imagenes/Base liquida.jpg",
-        descripcion: "Moto para un natural."
+        nombre: "Tinta Alma Beauty",
+        precio: 7400,
+        categoria: "Tintas",
+        imagen: "imagenes/Tinta Alma Beauty.jpeg",
+        descripcion: "Larga duración."
     },
 
     
     {
         id: 9,
-        nombre: "u",
-        precio: 44000,
-        categoria: "i",
-        imagen: "imagenes/Base liquida.jpg",
-        descripcion: "Moto para un natural."
+        nombre: "Tinta Sagui",
+        precio: 16700,
+        categoria: "Tintas",
+        imagen: "imagenes/Tinta Sagui.jpeg",
+        descripcion: "natural."
     },
 
+
+    {
+        id: 10,
+        nombre: "Gel Hidratante de Grily ",
+        precio: 16700,
+        categoria: "Rostro",
+        imagen: "imagenes/Gel Hidratante de Grily.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 11,
+        nombre: "Lápiz de Cejas ",
+        precio: 16700,
+        categoria: "Cejas",
+        imagen: "imagenes/Lápiz de Cejas.jpeg",
+        descripcion: "natural."
+    },
+
+
+
+    {
+        id: 12,
+        nombre: "Polvo Translúcido",
+        precio: 16700,
+        categoria: "Rostro",
+        imagen: "imagenes/Polvo Translúcido.jpeg",
+        descripcion: "natural."
+    },
+
+    
 ];
 
 
 
-// ========================================
+// =================================    =======
 // CARRITO
 // ========================================
 
