@@ -9,7 +9,7 @@ const productos = [
         nombre: "Corrector de Bloomshell",
         precio: 20000,
         categoria: "Correctores",
-        imagen: "imagenes/Corrector de Bloomshell.jpeg",
+        imagen: "imagenes/Corrector Bloomshell.jpeg",
         descripcion: "Acabado natural y de larga duración."
     },
 
@@ -29,7 +29,7 @@ const productos = [
         nombre: "Corrector Superstay",
         precio: 7400,
         categoria: "Correctores",
-        imagen: "imagenes/Corrector Super stay.jpeg",
+        imagen: "imagenes/Corrector Superstay.jpeg",
         descripcion: "Alta cobertura para ojeras e imperfecciones."
     },
 
@@ -49,7 +49,7 @@ const productos = [
         nombre: "Fijador de Vitamina C ",
         precio: 7400,
         categoria: "Fijador",
-        imagen: "imagenes/Fijador de Vitamina C.jpeg",
+        imagen: "imagenes/Fijador Vitamina C.jpeg",
         descripcion: "Crema hidratante para un acabado natural."
     },
 
@@ -97,10 +97,10 @@ const productos = [
 
     {
         id: 10,
-        nombre: "Gel Hidratante de Grily ",
+        nombre: "Gel Hidratante de Girly ",
         precio: 16700,
         categoria: "Rostro",
-        imagen: "imagenes/Gel Hidratante de Grily.jpeg",
+        imagen: "imagenes/Gel Hidratante de Girly.jpeg",
         descripcion: "natural."
     },
 
@@ -113,7 +113,7 @@ const productos = [
         imagen: "imagenes/Lápiz de Cejas.jpeg",
         descripcion: "natural."
     },
-
+    
 
 
     {
