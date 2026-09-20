@@ -49,7 +49,7 @@ const productos = [
         nombre: "Fijador de Vitamina C ",
         precio: 7400,
         categoria: "Fijador",
-        imagen: "imagenes/Fijador Vitamina C.jpeg",
+        imagen: "imagenes/FijadorC.jpeg",
         descripcion: "Crema hidratante para un acabado natural."
     },
 
@@ -59,7 +59,7 @@ const productos = [
         nombre: "Fijador de Fresa",
         precio: 7400,
         categoria: "Fijador",
-        imagen: "imagenes/Fijador de fresa.jpeg",
+        imagen: "imagenes/FijadorF.jpeg",
         descripcion: "Labial de acabado natural."
     },
 
