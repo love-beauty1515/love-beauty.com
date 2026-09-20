@@ -125,6 +125,135 @@ const productos = [
         descripcion: "natural."
     },
 
+
+ {
+        id: 13,
+        nombre: "Blush Tono 02 Alma Beauty.",
+        precio: 13000,
+        categoria: "Rostro",
+        imagen: "imagenes/Blush Tono 02 Alma Beauty.jpeg",
+        descripcion: "natural."
+    },
+
+
+     {
+        id: 14,
+        nombre: "Cepillo Con Espejo Flor Hair Brush.",
+        precio: 8700,
+        categoria: "Rostro",
+        imagen: "imagenes/Cepillo Con Espejo Flor Hair Brush.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 15,
+        nombre: "Contorno Hi-Zis.",
+        precio: 14100,
+        categoria: "Rostro",
+        imagen: "imagenes/Contorno Hi-Zis.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 16,
+        nombre: "Espejo Oro Rosa Cosmetics.",
+        precio: 12000,
+        categoria: "Rostro",
+        imagen: "imagenes/Espejo Oro Rosa Cosmetics.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 17,
+        nombre: "Fat Oil.",
+        precio: 7500,
+        categoria: "Rostro",
+        imagen: "imagenes/Fat Oil.jpeg",
+        descripcion: "natural."
+    },
+
+
+
+    {
+        id: 18,
+        nombre: "Iluminadores x2.",
+        precio: 10200,
+        categoria: "Rostro",
+        imagen: "imagenes/Iluminadores x2.jpeg",
+        descripcion: "natural."
+    },
+
+
+
+    {
+        id: 19,
+        nombre: "Kit Serums X3 Biaqua.",
+        preci: 20000,
+        categoria: "Rostro",
+        imagen: "imagenes/Kit Serums X3 Biaqua.jpeg",
+        descripcion: "natural."
+    },
+
+    {
+        id: 20,
+        nombre: "Kit Splash y Mantequilla Corporal.",
+        precio: 23100,
+        categoria: "Rostro",
+        imagen: "imagenes/Kit Splash y Mantequilla Corporal.jpeg",
+        descripcion: "natural."
+    },
+
+    {
+        id: 21,
+        nombre: "Limpiador Facial BIOAQUA.",
+        precio: 13000,
+        categoria: "Rostro",
+        imagen: "imagenes/Limpiador Facial BIOAQUA.",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 22,
+        nombre: "Lip Gloss Engol.",
+        precio: 10500,
+        categoria: "Rostro",
+        imagen: "imagenes/Lip Gloss Engol.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 23,
+        nombre: "Llavero Cereza.",
+        precio: 16700,
+        categoria: "Rostro",
+        imagen: "imagenes/Llavero Cereza.jpeg",
+        descripcion: "natural."
+    },
+
+
+    {
+        id: 24,
+        nombre: "Lip Gloss Lucky model.",
+        precio: 16700,
+        categoria: "Rostro",
+        imagen: "imagenes/Lip Gloss Lucky model.jpeg",
+        descripcion: "natural."
+    },
+
+    {
+        id: 25,
+        nombre: "Pestañina De Prosa Morada.",
+        precio: 18500,
+        categoria: "Rostro",
+        imagen: "imagenes/Pestañina De Prosa Morada.jpeg",
+        descripcion: "natural."
+    },
+
     
 ];
 
