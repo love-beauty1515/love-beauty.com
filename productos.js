@@ -29,7 +29,7 @@ const productos = [
         nombre: "Corrector Superstay",
         precio: 7400,
         categoria: "Correctores",
-        imagen: "imagenes/Corrector Superstay.jpeg",
+        imagen: "imagenes/Corrector Super Stay.jpeg",
         descripcion: "Alta cobertura para ojeras e imperfecciones."
     },
 
