@@ -260,7 +260,7 @@ const productos = [
         nombre: "Lip Gloss",
         precio: 00,
         categoria: "Correctores",
-        imagen: "imagenes/.jpeg",
+        imagen: "imagenes/IMG-20260919-WA0025.jpeg",
         descripcion: "Acabado natural y de larga duración."
     },
     
