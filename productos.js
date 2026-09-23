@@ -98,7 +98,7 @@ const productos = [
     {
         id: 10,
         nombre: "Gel Hidratante de Girly ",
-        precio: 16700,
+        precio: 29000,
         categoria: "Rostro",
         imagen: "imagenes/Gel Hidratante de Girly.jpeg",
         descripcion: "natural."
@@ -108,7 +108,7 @@ const productos = [
     {
         id: 11,
         nombre: "Lápiz de Cejas ",
-        precio: 16700,
+        precio: 5400,
         categoria: "Cejas",
         imagen: "imagenes/Lápiz de Cejas.jpeg",
         descripcion: "natural."
@@ -119,7 +119,7 @@ const productos = [
     {
         id: 12,
         nombre: "Polvo Translúcido",
-        precio: 16700,
+        precio: 5000,
         categoria: "Rostro",
         imagen: "imagenes/Polvo Translúcido.jpeg",
         descripcion: "natural."
@@ -170,7 +170,7 @@ const productos = [
         id: 17,
         nombre: "Fat Oil.",
         precio: 7500,
-        categoria: "Rostro",
+        categoria: "Labios",
         imagen: "imagenes/Fat Oil.jpeg",
         descripcion: "natural."
     },
