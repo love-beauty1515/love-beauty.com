@@ -68,7 +68,7 @@ const productos = [
         id: 7,
         nombre: "Tinta de Bloomshell",
         precio: 16700,
-        categoria: "Tintas",
+        categoria: "Labios",
         imagen: "imagenes/Tinta de Bloomshell.jpeg",
         descripcion: "Larga duración."
     },
@@ -79,7 +79,7 @@ const productos = [
         id: 8,
         nombre: "Tinta Alma Beauty",
         precio: 7400,
-        categoria: "Tintas",
+        categoria: "Labios",
         imagen: "imagenes/Tinta Alma Beauty.jpeg",
         descripcion: "Larga duración."
     },
@@ -89,7 +89,7 @@ const productos = [
         id: 9,
         nombre: "Tinta Sagui",
         precio: 16700,
-        categoria: "Tintas",
+        categoria: "Labios",
         imagen: "imagenes/Tinta Sagui.jpeg",
         descripcion: "natural."
     },
@@ -140,7 +140,7 @@ const productos = [
         id: 14,
         nombre: "Cepillo Con Espejo Flor Hair Brush.",
         precio: 8700,
-        categoria: "Rostro",
+        categoria: "Accesorios",
         imagen: "imagenes/Cepillo Con Espejo Flor Hair Brush.jpeg",
         descripcion: "natural."
     },
@@ -160,7 +160,7 @@ const productos = [
         id: 16,
         nombre: "Espejo Oro Rosa Cosmetics.",
         precio: 12000,
-        categoria: "Rostro",
+        categoria: "Accesorios",
         imagen: "imagenes/Espejo Oro Rosa Cosmetics.jpeg",
         descripcion: "natural."
     },
@@ -230,7 +230,7 @@ const productos = [
         id: 23,
         nombre: "Llavero Cereza.",
         precio: 16700,
-        categoria: "Rostro",
+        categoria: "Accesorios",
         imagen: "imagenes/Llavero Cereza.jpeg",
         descripcion: "natural."
     },
