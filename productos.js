@@ -225,7 +225,7 @@ const productos = [
      nombre: "Kit de Splash de Mantequilla",
      precio: 23000,
      categoria: "Cuidado de la Piel",
-     imagen: "imagenes/Chicas Super",
+     imagen: "imagenes/Chicas Super.jpeg",
      descripcion: "El kit de las chicas super poderosas, refresca e hucmenta tu piel, dejando un aroma agradable a cicle"
 
     },
@@ -236,7 +236,7 @@ const productos = [
     nombre: "Limpiador Facial.",
     precio: 13000,
     categoria: "Cuidado de la Piel",
-    imagen: "imagenes/Limpiador Facial.jpeg",
+    imagen: "imagenes/Limpiador Facial BIOAQUA.jpeg",
     descripcion: "Espuma limpiadora de Bioaqua, contiene niacidamida, ácido hialuronico y deja un acabado limpio y conforme sobre el rostro."
         
    },
