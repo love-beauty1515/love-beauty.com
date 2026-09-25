@@ -225,7 +225,7 @@ const productos = [
      nombre: "Kit de Splash de Mantequilla",
      precio: 23000,
      categoria: "Cuidado de la Piel",
-     imagen: "imagenes/Chicas Super.jpeg",
+     imagen: "imagenes/Kit Splash y Mantequilla Corporal.jpeg",
      descripcion: "El kit de las chicas super poderosas, refresca e hucmenta tu piel, dejando un aroma agradable a cicle"
 
     },
