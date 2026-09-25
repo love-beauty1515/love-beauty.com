@@ -10,7 +10,7 @@ const productos = [
         precio: 20000,
         categoria: "Correctores",
         imagen: "imagenes/Corrector Bloomshell.jpeg",
-        descripcion: "Acabado natural y de larga duración."
+        descripcion: "Tono 01, 02."
     },
 
 
@@ -20,18 +20,18 @@ const productos = [
         precio: 16000,
         categoria: "Correctores",
         imagen: "imagenes/Corrector de Elaya.jpeg",
-        descripcion: "Textura ligera que no marca líneas de expresión."
+        descripcion: "Tono 2.5."
     },
 
 
-    {
+   /agotado {
         id: 3,
         nombre: "Corrector Superstay",
         precio: 7400,
         categoria: "Correctores",
         imagen: "imagenes/Corrector Super Stay.jpeg",
         descripcion: "Alta cobertura para ojeras e imperfecciones."
-    },
+  / },
 
 
     {
@@ -48,7 +48,7 @@ const productos = [
         id: 5,
         nombre: "Fijador de Vitamina C ",
         precio: 7400,
-        categoria: "Fijador",
+        categoria: "Rostro",
         imagen: "imagenes/FijadorC .jpeg",
         descripcion: "."
     },
@@ -58,7 +58,7 @@ const productos = [
         id: 6,
         nombre: "Fijador de Fresa",
         precio: 7400,
-        categoria: "Fijador",
+        categoria: "Rostro",
         imagen: "imagenes/FijadorF.jpeg",
         descripcion: "Acabado natural."
     },
@@ -99,7 +99,7 @@ const productos = [
         id: 10,
         nombre: "Gel Hidratante de Girly ",
         precio: 29000,
-        categoria: "Rostro",
+        categoria: "Cuidado de la Piel",
         imagen: "imagenes/Gel Hidratante de Girly.jpeg",
         descripcion: "natural."
     },
@@ -132,7 +132,7 @@ const productos = [
         precio: 13000,
         categoria: "Rostro",
         imagen: "imagenes/Blush Tono 02 Alma Beauty.jpeg",
-        descripcion: "natural."
+        descripcion: "Alta pigmentación y durabilidad."
     },
 
 
@@ -142,7 +142,7 @@ const productos = [
         precio: 8700,
         categoria: "Accesorios",
         imagen: "imagenes/Cepillo Con Espejo Flor Hair Brush.jpeg",
-        descripcion: "natural."
+        descripcion: "Cepillo con espejo Hair brush"
     },
 
 
@@ -152,7 +152,7 @@ const productos = [
         precio: 14100,
         categoria: "Rostro",
         imagen: "imagenes/Contorno Hi-Zis.jpeg",
-        descripcion: "natural."
+        descripcion: "Contorno con acabado natural y uniforme"
     },
 
 
@@ -162,7 +162,7 @@ const productos = [
         precio: 12000,
         categoria: "Accesorios",
         imagen: "imagenes/Espejo Oro Rosa Cosmetics.jpeg",
-        descripcion: "natural."
+        descripcion: "Espejo Oro Rosa Cosmetics"
     },
 
 
@@ -172,7 +172,7 @@ const productos = [
         precio: 7500,
         categoria: "Labios",
         imagen: "imagenes/Fat Oil.jpeg",
-        descripcion: "natural."
+        descripcion: "Alta pigmentación"
     },
 
 
@@ -183,18 +183,7 @@ const productos = [
         precio: 10200,
         categoria: "Rostro",
         imagen: "imagenes/Iluminadores x2.jpeg",
-        descripcion: "natural."
-    },
-
-
-
-    {
-        id: 19,
-        nombre: "Kit Serums X3 Biaqua.",
-        preci: 20000,
-        categoria: "Rostro",
-        imagen: "imagenes/Kit Serums X3 Biaqua.jpeg",
-        descripcion: "natural."
+        descripcion: "Excelente pigmentación y acabado."
     },
 
     {
@@ -258,12 +247,61 @@ const productos = [
     {
         id: 26,
         nombre: "Lip Gloss",
-        precio: 00,
+        precio: 10400,
         categoria: "Labios",
         imagen: "imagenes/Lip Gloss.jpeg",
         descripcion: "Acabado natural y de larga duración."
     },
-    
+
+
+    {
+    id: 27,
+    nombre: "Kit de Splash de Mantequilla",
+    precio: 23000,
+    categoria: "Cuidado de la Piel",
+    imagen: "imagenes/Chicas Super",
+    descripcion: "El kit de las chicas super poderosas, refresca e hucmenta tu piel, dejando un aroma agradable a cicle"
+
+    },
+
+
+    {
+    id: 28,
+    nombre: "Limpiador Facial.",
+    precio: 13000,
+    categoria: "Cuidado de la Piel",
+    imagen: "imagenes/Limpiador Facial.jpeg",
+    descripcion: "Espuma limpiadora de Bioaqua, contiene niacidamida, ácido hialuronico y deja un acabado limpio y conforme sobre el rostro."
+        
+   },
+
+    {
+    id: 29,
+    nombre: "Serums.",
+    precio: 20000,
+    categoria: "Cuidado de la Piel",
+    imagen: "imagenes/Serums.jpeg",
+    descripcion: "Serums de vitamina c, retinol y ácido hialuronico que hidrataran tu piel."
+  },
+
+  {
+    id: 30,
+    nombre: "Pestañina de Prosa Efecto Alargador.",
+    precio: 18500,
+    categoria: "Rostro",
+    imagen: "imagenes/Pestañina de Prosa Efecto Alargador.jpeg",
+    descripcion: "Larga duración."
+   },
+
+
+    {
+    id: 31,
+    nombre: "Got2B",
+    precio: 23000,
+    categoria: "Cejas",
+    imagen: "imagenes/Got2be.jpeg",
+    descripcion: "Gel definidor de cejas."
+  }, 
 
     
 ];
