@@ -209,17 +209,9 @@ const productos = [
     },
 
 
-    {
-        id: 21,
-        nombre: "Lip Gloss Lucky model.",
-        precio: 16700,
-        categoria: "Rostro",
-        imagen: "imagenes/Lip Gloss Lucky model.jpeg",
-        descripcion: "natural."
-    },
 
     {
-        id: 22,
+        id: 21,
         nombre: "Lip Gloss",
         precio: 10400,
         categoria: "Labios",
@@ -229,7 +221,7 @@ const productos = [
 
 
   {
-     id: 23,
+     id: 22,
      nombre: "Kit de Splash de Mantequilla",
      precio: 23000,
      categoria: "Cuidado de la Piel",
@@ -240,7 +232,7 @@ const productos = [
 
 
     {
-    id: 24,
+    id: 23,
     nombre: "Limpiador Facial.",
     precio: 13000,
     categoria: "Cuidado de la Piel",
@@ -250,7 +242,7 @@ const productos = [
    },
 
     {
-    id: 25,
+    id: 24,
     nombre: "Serums.",
     precio: 20000,
     categoria: "Cuidado de la Piel",
@@ -259,7 +251,7 @@ const productos = [
   },
 
   {
-    id: 26,
+    id: 25,
     nombre: "Pestañina de Prosa Efecto Alargador.",
     precio: 18500,
     categoria: "Rostro",
@@ -269,7 +261,7 @@ const productos = [
 
 
     {
-    id: 27,
+    id: 26,
     nombre: "Got2B",
     precio: 23000,
     categoria: "Cejas",
