@@ -24,14 +24,14 @@ const productos = [
     },
 
 
-   /agotado {
+   {
         id: 3,
         nombre: "Corrector Superstay",
         precio: 7400,
         categoria: "Correctores",
         imagen: "imagenes/Corrector Super Stay.jpeg",
         descripcion: "Alta cobertura para ojeras e imperfecciones."
-  / },
+   },
 
 
     {
@@ -186,27 +186,11 @@ const productos = [
         descripcion: "Excelente pigmentación y acabado."
     },
 
-    {
-        id: 20,
-        nombre: "Kit Splash y Mantequilla Corporal.",
-        precio: 23100,
-        categoria: "Rostro",
-        imagen: "imagenes/Kit Splash y Mantequilla Corporal.jpeg",
-        descripcion: "natural."
-    },
-
-    {
-        id: 21,
-        nombre: "Limpiador Facial BIOAQUA.",
-        precio: 13000,
-        categoria: "Rostro",
-        imagen: "imagenes/Limpiador Facial BIOAQUA.",
-        descripcion: "natural."
-    },
+    
 
 
     {
-        id: 22,
+        id: 19,
         nombre: "Lip Gloss Engol.",
         precio: 10500,
         categoria: "Rostro",
@@ -216,9 +200,9 @@ const productos = [
 
 
     {
-        id: 23,
+        id: 20,
         nombre: "Llavero Cereza.",
-        precio: 16700,
+        precio: 8000,
         categoria: "Accesorios",
         imagen: "imagenes/Llavero Cereza.jpeg",
         descripcion: "natural."
@@ -226,7 +210,7 @@ const productos = [
 
 
     {
-        id: 24,
+        id: 21,
         nombre: "Lip Gloss Lucky model.",
         precio: 16700,
         categoria: "Rostro",
@@ -235,17 +219,7 @@ const productos = [
     },
 
     {
-        id: 25,
-        nombre: "Pestañina De Prosa Morada.",
-        precio: 18500,
-        categoria: "Rostro",
-        imagen: "imagenes/Pestañina De Prosa Morada.jpeg",
-        descripcion: "natural."
-    },
-
-
-    {
-        id: 26,
+        id: 22,
         nombre: "Lip Gloss",
         precio: 10400,
         categoria: "Labios",
@@ -254,19 +228,19 @@ const productos = [
     },
 
 
-    {
-    id: 27,
-    nombre: "Kit de Splash de Mantequilla",
-    precio: 23000,
-    categoria: "Cuidado de la Piel",
-    imagen: "imagenes/Chicas Super",
-    descripcion: "El kit de las chicas super poderosas, refresca e hucmenta tu piel, dejando un aroma agradable a cicle"
+  {
+     id: 23,
+     nombre: "Kit de Splash de Mantequilla",
+     precio: 23000,
+     categoria: "Cuidado de la Piel",
+     imagen: "imagenes/Chicas Super",
+     descripcion: "El kit de las chicas super poderosas, refresca e hucmenta tu piel, dejando un aroma agradable a cicle"
 
     },
 
 
     {
-    id: 28,
+    id: 24,
     nombre: "Limpiador Facial.",
     precio: 13000,
     categoria: "Cuidado de la Piel",
@@ -276,7 +250,7 @@ const productos = [
    },
 
     {
-    id: 29,
+    id: 25,
     nombre: "Serums.",
     precio: 20000,
     categoria: "Cuidado de la Piel",
@@ -285,7 +259,7 @@ const productos = [
   },
 
   {
-    id: 30,
+    id: 26,
     nombre: "Pestañina de Prosa Efecto Alargador.",
     precio: 18500,
     categoria: "Rostro",
@@ -295,7 +269,7 @@ const productos = [
 
 
     {
-    id: 31,
+    id: 27,
     nombre: "Got2B",
     precio: 23000,
     categoria: "Cejas",
